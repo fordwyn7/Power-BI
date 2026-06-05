@@ -1,7 +1,5 @@
 # POWER BI HOMEWORK ASSIGNMENT
-## Day & Night Mode Report + Power BI Service Introduction
 
----
 
 ## Objective
 
